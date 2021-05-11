@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 🔭 &nbsp;I am a pre-final year undergraduate in Information Technology, seeking for SDE Internship/Full-Time Opportunities.\
-💡 &nbsp;I'm passionate about exploring new technology and I have a rich experience in Full Stack Development & Open-Source.\
+💡 &nbsp;I have a rich experience in Full Stack Development & Open-Source.\
 💻 &nbsp;I love to spend my time to exploring new technologies.
 <hr>
 
