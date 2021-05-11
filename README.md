@@ -30,7 +30,10 @@
 <div align="center>
 
 
-[<img align="left" width="20px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1620717558~hmac=d5adc545fb0b3ce17fb55c3985ab3969" />](https://linkedin.com/in/thesrijande)
+  <a href="https://linkedin.com/in/thesrijande">
+   <img align="left" width="20px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1620717558~hmac=d5adc545fb0b3ce17fb55c3985ab3969" />
+  </a>
+  
 
 [<img align="left" width="20px" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1620717597~hmac=304c5ae92192b44418805ac597f0f9b8" />](https://twitter.com/TheSrijanDe)
 
