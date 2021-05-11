@@ -4,7 +4,7 @@
 
 
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Me :
 
 🔭 &nbsp;I am a pre-final year undergraduate in Information Technology, seeking for SDE Internship/Full-Time Opportunities.\
 💡 &nbsp;I have a rich experience in Full Stack Development & Open-Source.\
@@ -15,7 +15,7 @@
 
 
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats :
 
 <p align="center">
   <a href="https://github.com/thesrijande">
@@ -26,19 +26,22 @@
  <hr>
  
  
-### Connect with me:
-<div align="center>
+### 💬 Connect with me :
 
 
-  <a href="https://linkedin.com/in/thesrijande">
-   <img align="left" width="20px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1620717558~hmac=d5adc545fb0b3ce17fb55c3985ab3969" />
-  </a>
+
+<div align="center">
+    <a href="https://twitter.com/thesrijande">
+        <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/twitter.svg" alt="Twitter" title="Twitter" width="35" height="35">
+    </a>
+    <a href="https://www.linkedin.com/in/thesrijande/">
+        <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="35" height="35">
+    </a>
+    <a href="https://www.facebook.com/thesrijande/">
+        <img src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-512.png" alt="Facebook" title="Facebook" width="35" height="35">
+    </a>
+    <a href="https://www.instagram.com/thesrijande/">
+        <img src="https://www.pinclipart.com/picdir/big/520-5201494_smiley-face-circle-transparent-background-instagram-icon-clipart.png" alt="Instagram" title="Instagram" width="35" height="35">
+    </a>
   
-
-[<img align="left" width="20px" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1620717597~hmac=304c5ae92192b44418805ac597f0f9b8" />](https://twitter.com/TheSrijanDe)
-
-[<img align="left" width="20px" src="https://www.flaticon.com/svg/vstatic/svg/733/733547.svg?token=exp=1620717635~hmac=d9746d932596c50920ce76703a8b7dfb"/>](https://www.facebook.com/thesrijande)
-
-[<img align="left" width="20px" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1620717659~hmac=d6edff89aa5d54172bd9b84da72b076b" />](https://instagram.com/thesrijande)
-
 </div>
