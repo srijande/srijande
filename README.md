@@ -53,17 +53,5 @@
 
 
 
-
-
-### 🔭 Some Notable Projects :
-
-
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thesrijande&repo=thesrijande.github.io&theme=tokyonight&include_all_commits=true&bg_color=00000000&border_color=00000000"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thesrijande&repo=covidwarriors&theme=tokyonight&include_all_commits=true&bg_color=00000000&border_color=00000000"/>
-  </a>
-</p>
-
-
+ 
 
