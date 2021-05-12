@@ -19,13 +19,18 @@
 
 <p align="center">
   <a href="https://github.com/thesrijande">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thesrijande&count_private=true&show_icons=true&theme=onedark&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thesrijande&count_private=true&show_icons=true&theme=onedark&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thesrijande&count_private=true&show_icons=true&theme=vision-friendly-dark&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesrijande&count_private=true&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&hide=css,html&layout=compact"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thesrijande&count_private=true&show_icons=true&theme=vision-friendly-dark&include_all_commits=true"/>
   </a>
 </p>
  <hr>
- 
- 
+
+
+
+
+
+
 ### 💬 Connect with me :
 
 
