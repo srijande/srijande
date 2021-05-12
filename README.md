@@ -19,16 +19,14 @@
 
 <p align="center">
   <a href="https://github.com/thesrijande">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thesrijande&count_private=true&show_icons=true&theme=vision-friendly-dark&include_all_commits=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesrijande&count_private=true&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&hide=css,html&layout=compact"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thesrijande&count_private=true&show_icons=true&theme=vision-friendly-dark&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thesrijande&count_private=true&show_icons=true&theme=solarized-dark&include_all_commits=true&bg_color=00000000&border_color=00000000"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesrijande&count_private=true&show_icons=true&theme=solarized-dark&include_all_commits=true&hide=css,html&layout=compact&bg_color=00000000&border_color=00000000&langs_count=6"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thesrijande&count_private=true&show_icons=true&theme=solarized-dark&include_all_commits=true&background=00000000&border=00000000"/>
   </a>
 </p>
  <hr>
 
-
-
-
+ 
 
 
 ### 💬 Connect with me :
