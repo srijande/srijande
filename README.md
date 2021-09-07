@@ -25,7 +25,7 @@
     <a href="https://www.linkedin.com/in/srijande/">
         <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="35" height="35">
     </a>
-    <a href="https://www.facebook.com/srijande/">
+    <a href="https://www.facebook.com/srijande.me/">
         <img src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-512.png" alt="Facebook" title="Facebook" width="35" height="35">
     </a>
     <a href="https://www.instagram.com/srijande/">
