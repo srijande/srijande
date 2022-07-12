@@ -28,7 +28,7 @@
     <a href="https://www.facebook.com/srijande.me/">
         <img src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-512.png" alt="Facebook" title="Facebook" width="35" height="35">
     </a>
-    <a href="https://www.instagram.com/srijande.me/">
+    <a href="https://www.instagram.com/srijan.de_/">
         <img src="https://www.pinclipart.com/picdir/big/520-5201494_smiley-face-circle-transparent-background-instagram-icon-clipart.png" alt="Instagram" title="Instagram" width="35" height="35">
     </a>
   
