@@ -7,8 +7,7 @@
 ### 👨🏻‍💻 &nbsp;About Me :
 
 🔭 &nbsp;Towards changing others lives with tech 💡\
-#💡 &nbsp;I have a rich experience in Full Stack Development & Open-Source.\
-#💻 &nbsp;I love to spend my time to exploring new technologies.
+💻 &nbsp;Full-Stack Developer | Open to Freelancing | Django, Vue Js ||\
  <hr>
 
  
