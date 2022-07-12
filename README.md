@@ -19,7 +19,7 @@
 
 
 <div align="center">
-    <a href="https://twitter.com/im_srijan_de">
+    <a href="https://twitter.com/srijande_">
         <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/twitter.svg" alt="Twitter" title="Twitter" width="35" height="35">
     </a>
     <a href="https://www.linkedin.com/in/srijande/">
