@@ -17,16 +17,16 @@
 
 
 <div align="center">
-    <a href="https://twitter.com/srijande_">
+    <a href="https://twitter.com/srijande_" target="_blank">
         <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/twitter.svg" alt="Twitter" title="Twitter" width="35" height="35">
     </a>
-    <a href="https://www.linkedin.com/in/srijande/">
+    <a href="https://www.linkedin.com/in/srijande/" target="_blank">
         <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="35" height="35">
     </a>
-    <a href="https://www.facebook.com/srijande.me/">
+    <a href="https://www.facebook.com/srijande.in/" target="_blank">
         <img src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-512.png" alt="Facebook" title="Facebook" width="35" height="35">
     </a>
-    <a href="https://www.instagram.com/srijan.de_/">
+    <a href="https://www.instagram.com/srijan.de_/" target="_blank">
         <img src="https://www.pinclipart.com/picdir/big/520-5201494_smiley-face-circle-transparent-background-instagram-icon-clipart.png" alt="Instagram" title="Instagram" width="35" height="35">
     </a>
   
