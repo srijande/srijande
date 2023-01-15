@@ -10,7 +10,6 @@
 💻 &nbsp;Full-Stack Developer | Open to Freelancing | Django, Vue Js ||\
  <hr>
 
- <iframe class="iframe" src="https://srijande.github.io/"></iframe>
 
 
 ### 💬 Connect with me :
