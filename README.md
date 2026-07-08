@@ -47,8 +47,8 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srijande&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijande&layout=compact&langs_count=8&theme=tokyonight&hide=css,html&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=srijande&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=srijande&layout=compact&langs_count=8&theme=tokyonight&hide=css,html&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -59,32 +59,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=srijande&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srijande&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
-</p>
-
----
-
-## 💬 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/srijande/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/srijande_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/srijan.de_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.facebook.com/srijande.in/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</p>
 
 ---
 
@@ -94,4 +68,3 @@
 
 
  
-
