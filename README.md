@@ -2,14 +2,22 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1100&color=22D3EE&center=true&vCenter=true&random=false&width=820&lines=Backend+contracts+that+stay+clean;Cloud+workflows+that+survive+real+traffic;Typed+frontends+for+actual+humans;Ideas+in.+Software+out.)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1100&color=22D3EE&center=true&vCenter=true&random=false&width=820&lines=Backend+contracts+that+stay+clean;Cloud+workflows+that+survive+real+traffic;Typed+frontends+for+actual+humans;Ideas+in.+Software+out." alt="Typing SVG"/>
+</a>
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=srijande&color=6366f1&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/srijande?style=flat-square&color=6366f1&label=Followers&logo=github)](https://github.com/srijande?tab=followers)
-[![Website](https://img.shields.io/badge/Website-srijande.github.io-06b6d4?style=flat-square&logo=githubpages&logoColor=white)](https://srijande.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/srijande/)
+<a href="https://github.com/srijande?tab=followers" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/github/followers/srijande?style=flat-square&color=6366f1&label=Followers&logo=github" alt="GitHub followers"/>
+</a>
+<a href="https://srijande.github.io/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Website-srijande.github.io-06b6d4?style=flat-square&logo=githubpages&logoColor=white" alt="Website"/>
+</a>
+<a href="https://www.linkedin.com/in/srijande/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+</a>
 
 </div>
 
@@ -62,7 +70,9 @@ const srijan = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=srijande&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank" rel="noopener noreferrer">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srijande&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Activity" alt="Activity Graph"/>
+</a>
 
 </div>
 
@@ -129,10 +139,18 @@ const srijan = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Srijan_De-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijande/)
-[![Twitter](https://img.shields.io/badge/Twitter-srijande_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/srijande_)
-[![Instagram](https://img.shields.io/badge/Instagram-srijan.de_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/srijan.de_/)
-[![Facebook](https://img.shields.io/badge/Facebook-srijande.in-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/srijande.in/)
+<a href="https://www.linkedin.com/in/srijande/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-Srijan_De-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/srijande_" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Twitter-srijande_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="https://www.instagram.com/srijan.de_/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Instagram-srijan.de_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://www.facebook.com/srijande23/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Facebook-srijande23-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
 
 </div>
 

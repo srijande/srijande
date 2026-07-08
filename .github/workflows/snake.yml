@@ -9,8 +9,10 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
@@ -21,7 +23,7 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push output to `output` branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
